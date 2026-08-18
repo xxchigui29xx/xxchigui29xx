@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hola, soy Carlitos R.
 
-<!--
-**xxchigui29xx/xxchigui29xx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Freelancer en Programación & Desarrollo de Software
 
-Here are some ideas to get you started:
+🚀 Founder @ AMAIA Technologies  
+💻 Software Developer  
+📱 Mobile & Web Development  
+🤖 AI • Automation • Cloud  
+🇵🇪 Building technology from Peru
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<p align="center">
+  <img src="./assets/amaia-carlitos-banner.png" width="100%" alt="Carlitos R. - AMAIA Technologies">
+</p>
