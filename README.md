@@ -42,9 +42,9 @@ Incluye control de vehículos, residentes, vigilantes, incidentes, evidencias, a
 
 ## 🚀 KidSpace
 
-Proyecto tecnológico orientado a crear experiencias educativas, interactivas y seguras para niños.
+App de control parental que permite a los padres decidir qué aplicaciones pueden usar sus hijos, creando un entorno digital seguro, controlado y apropiado para niños.
 
-**Enfoque:** Educación • Tecnología • Juegos • Aprendizaje
+**Enfoque:** Educación • Tecnología • control parental
 
 ---
 
