@@ -76,6 +76,7 @@ Git • GitHub • VS Code • Codex
 ### 🤖 Intereses
 
 Inteligencia Artificial • Automatización • SaaS • Cloud Computing • Ciberseguridad
+
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
@@ -96,4 +97,3 @@ Inteligencia Artificial • Automatización • SaaS • Cloud Computing • Cib
   🚀 <b>Una idea. Un propósito. Infinitas posibilidades.</b>
 </p>
 
-**Innovación • Inteligencia • Seguridad • Comunidad**
